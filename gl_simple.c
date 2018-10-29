@@ -15,6 +15,7 @@
 #include "gfx.h"
 #include "config.h"
 #include "debugconsole.h"
+#include "loadfile.h"
 
 /*******************************************************************************
  * Globals
